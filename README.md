@@ -1,7 +1,7 @@
 ## Machine_learning_2
 Disease Prediction using ML
 
-## TEAM MEMBERS
+## By
 
 Durga Varun Gangesetti  (S5058219)
 
@@ -19,13 +19,13 @@ Random Forest Classifier <br />
 
 ![Disease Prediction](https://user-images.githubusercontent.com/77462702/216084273-390a58bd-9ede-472b-a389-2625d531e189.jpg)
 
-## CODE EXECUTION PROCESS
+## DATASETS
 
    Download the dataset fom the given link
       
    `https://drive.google.com/drive/folders/1RLuaDOqiY2iZqi0f_jTSgPe5IhpRRvAX?usp=sharing`
 
-   instead of entire training you can use the pre trained data set which is addressed Training.csv.
+   instead of entire training you can use the pre trained data set which is addressed Training.csv. 
 
 ## RESULT
    I have developed this and it can be implemented in the healthcare robot architecture that would be helpful for the doctors and technician to give and get the prediction of disease with the given symptoms.
