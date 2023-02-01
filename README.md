@@ -17,7 +17,7 @@ Random Forest Classifier <br />
 
 ## Implementation Architecture
 
-    https://github.com/varun240499/Machine-Learning-2/blob/main/Disease%20Prediction.jpg
+![Disease Prediction](https://user-images.githubusercontent.com/77462702/216084273-390a58bd-9ede-472b-a389-2625d531e189.jpg)
 
 ## CODE EXECUTION PROCESS
 
