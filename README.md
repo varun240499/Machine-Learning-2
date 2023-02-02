@@ -1,8 +1,5 @@
 ## Machine_learning_2
-Disease Prediction using ML
-
-## By
-
+Disease Prediction using ML <br />
 Durga Varun Gangesetti  (S5058219)
 
 ## ABSTRACT
