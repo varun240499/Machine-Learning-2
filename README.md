@@ -14,7 +14,7 @@ Random Forest Classifier <br />
 
 ## Implementation Architecture
 
-![Disease_Prediction](https://user-images.githubusercontent.com/77462702/216840896-f618eaf9-c382-41c4-8ea5-3c91368ff62c.jpg)
+![Disease Prediction](https://user-images.githubusercontent.com/77462702/216935352-6bc4fd53-d06c-4c4b-8a1c-19b2cae0b7fe.jpg)
 
 
 ## DATASETS
